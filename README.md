@@ -7,10 +7,9 @@ Tool set
     * [在线工具](http://tool.lu/)
     * [一译中文文档](http://python.usyiyi.cn/)
     * [文件图片转换](https://convertio.co/)
-    * [regex在线](https://regex101.com/)
-    * [codelf变量命名](https://unbug.github.io/codelf/)
+    * [regex 在线](https://regex101.com/)
+    * [codelf 变量命名](https://unbug.github.io/codelf/)
     * [](https://github.com/HGladiator/MyCodes/wiki/%E5%B7%A5%E5%85%B7%E7%BD%91%E7%AB%99%E9%9B%86%E5%90%88)
-
 2.  程序员实用类
     * [12-factors](https://12factor.net/zh_cn/)
     * [文档格式](http://open.leancloud.cn/)
@@ -20,7 +19,6 @@ Tool set
     * [编程语言排名](https://www.tiobe.com/tiobe-index/)
     * [Linux Packages 集合下载](https://pkgs.org/)
     * [](https://github.com/HGladiator/MyCodes/wiki/%E5%B7%A5%E5%85%B7%E7%BD%91%E7%AB%99%E9%9B%86%E5%90%88)
-
 3.  设计师工具
     * [zeplin](https://zeplin.io/)
     * [Eagle](https://cn.eagle.cool/)
