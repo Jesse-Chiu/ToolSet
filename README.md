@@ -3,11 +3,11 @@ Tool Set 是收集了各种实用的工具，会不断更新中，同时欢迎�
 
 1.  工具网站及导航
     * [DevDocs combines multiple API documentations](https://devdocs.io/)
-    * [在线工具](http://tool.lu/)
+    * [在线工具集合](http://tool.lu/)
     * [一译中文文档](http://python.usyiyi.cn/)
     * [文件图片转换](https://convertio.co/)
     * [regex 在线](https://regex101.com/)
-    * [codelf 变量命名](https://unbug.github.io/codelf/)
+    * [Codelf 变量命名](https://unbug.github.io/codelf/)
     
 2.  程序员实用类
     * [12-factors(为构建如下的 SaaS 应用提供了方法论)](https://12factor.net/zh_cn/)
@@ -21,6 +21,9 @@ Tool Set 是收集了各种实用的工具，会不断更新中，同时欢迎�
     * [Navicat(数据库管理工具)](http://www.navicat.com.cn/)
     * [Navicat 工具介绍](https://blog.csdn.net/u010001477/article/details/76906781)
     * [FileLocator Pro(文件检索工具，支持文件内容)](https://www.mythicsoft.com/filelocatorpro/)
+    * [Team Viewer(强大的远程支持软件)](https://www.teamviewer.com/zhCN/)
+    * [Mindjet.MindManager(思维导图工具)](http://www.mindmanager.cc/)
+    * [Listary(文件检索工具)](http://www.listary.com/)
     
 3.  设计师工具
     * [zeplin](https://zeplin.io/)
@@ -72,6 +75,9 @@ Tool Set 是收集了各种实用的工具，会不断更新中，同时欢迎�
     * [PDF 相关](https://smallpdf.com/cn)
     * [图片压缩](http://optimizilla.com/zh/)
     * [Calibre(电子书强大工具)](https://calibre-ebook.com/)
+    * [BB FlashBack(简单好用的屏幕录屏软)](https://www.flashbackrecorder.com/)
+    * [AWicons(小图标制作工具)](https://www.awicons.com/)
+    * [UGifAnimator(gif 制作编辑工具)](https://www.cr173.com/soft/14872.html)
 
 8.  趣味类
     * [齿轮轨迹](http://nathanfriend.io/inspirograph/)
